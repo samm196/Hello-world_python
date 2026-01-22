@@ -10,7 +10,7 @@ PROJECT NAME: RUNNING PYTHON PROGRAM THAT DISPLAYS A LINE OF CODE
 
 SOURCE CODE: https://github.com/samm196/Hello-world_python.git
 
-This repository is a small Python project created by ONYEBUCHI SAMUEL CHUKWUEMEKA as part of a computer science assignment. It shows how to write and run a basic Python program that prints a message. The project includes a simple “Hello World” style script and documentation about the author and the course.
+This repository is a small Python project created by ONYEBUCHI SAMUEL CHUKWUEMEKA as part of a SEN 201 assignment. It shows how to write and run a basic Python program that prints a message. The project includes a simple “Hello World” style script and documentation about the author and the course.
 
 About the Project
 
